@@ -4,7 +4,7 @@
   <title><![CDATA[Asha's blog]]></title>
   <link href="http://asharevalia.github.io/atom.xml" rel="self"/>
   <link href="http://asharevalia.github.io/"/>
-  <updated>2013-06-21T16:51:34+05:30</updated>
+  <updated>2013-06-21T16:53:33+05:30</updated>
   <id>http://asharevalia.github.io/</id>
   <author>
     <name><![CDATA[Asha Revalia]]></name>
@@ -32,7 +32,7 @@
 
 <p><b>Child abuse is neglect</b> &mdash; a pattern of failure to provide for the child&rsquo;s physical needs, such as food, clothing, shelter, and medical care; a pattern of failure to provide for the child&rsquo;s emotional needs, such as affection, attention, and supervision.</p>
 
-<p><img class="center" src="home/octopress/source/image" title="[600] [400]" ></p>
+<p><img class="center" src="home/octopress/source/image" width="600" height="400"></p>
 ]]></content>
   </entry>
   
