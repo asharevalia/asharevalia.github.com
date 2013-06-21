@@ -22,6 +22,6 @@ The physical or emotional or sexual mistreatment of children.
 <b>Child abuse is neglect</b> -- a pattern of failure to provide for the child's physical needs, such as food, clothing, shelter, and medical care; a pattern of failure to provide for the child's emotional needs, such as affection, attention, and supervision.
 
 
-{% img center home/octopress/source/image [600] [400] %}
+{% img center home/octopress/source/image 600 400 %}
 
 

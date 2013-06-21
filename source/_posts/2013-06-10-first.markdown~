@@ -5,7 +5,7 @@ date: 2013-06-10 13:19
 comments: true
 categories:
 ---
-<html>
+
 <b>DEFINITION</b>  
 
 The physical or emotional or sexual mistreatment of children.  
@@ -19,5 +19,9 @@ The physical or emotional or sexual mistreatment of children.
     
 <b>Child abuse is sexual</b> -- incest, any forced sexual activity, exposure to sexual stimulation not appropriate for the child's age.  
     
-<b>Child abuse is neglect</b> -- a pattern of failure to provide for the child's physical needs, such as food, clothing, shelter, and medical care; a pattern of failure to provide for the child's emotional needs, such as affection, attention, and supervision. 
-</html>
+<b>Child abuse is neglect</b> -- a pattern of failure to provide for the child's physical needs, such as food, clothing, shelter, and medical care; a pattern of failure to provide for the child's emotional needs, such as affection, attention, and supervision.
+
+
+{% img center home/octopress/source/image 600 400 %}
+
+
