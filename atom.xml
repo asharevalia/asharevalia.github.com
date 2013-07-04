@@ -4,7 +4,7 @@
   <title><![CDATA[Asha's blog]]></title>
   <link href="http://asharevalia.github.io/atom.xml" rel="self"/>
   <link href="http://asharevalia.github.io/"/>
-  <updated>2013-07-04T16:38:31+05:30</updated>
+  <updated>2013-07-04T16:44:21+05:30</updated>
   <id>http://asharevalia.github.io/</id>
   <author>
     <name><![CDATA[Asha Revalia]]></name>
@@ -18,7 +18,21 @@
     <link href="http://asharevalia.github.io/blog/2013/07/04/jquery/"/>
     <updated>2013-07-04T16:38:00+05:30</updated>
     <id>http://asharevalia.github.io/blog/2013/07/04/jquery</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<p><b>What is jQuery?<b></p>
+
+<p>jQuery is a lightweight, &ldquo;write less, do more&rdquo;, JavaScript library.
+The purpose of jQuery is to make it much easier to use JavaScript on your website.jQuery takes a lot of common tasks that require many lines of JavaScript code to accomplish, and wraps them into methods that you can call with a single line of code.
+jQuery also simplifies a lot of the complicated things from JavaScript, like AJAX calls and DOM manipulation.</p>
+
+<p><b>The jQuery library contains the following features:<b></p>
+
+<pre><code>HTML/DOM manipulation
+CSS manipulation
+HTML event methods
+Effects and animations
+AJAX
+Utilities
+</code></pre>
 ]]></content>
   </entry>
   
